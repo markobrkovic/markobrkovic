@@ -6,14 +6,13 @@
 - 🌱 Just gratuated from neuefische Web Development Bootcamp
 - 🔍 I’m looking for a job as a Junior Web Developer in Munich or remote
 - 🥅 2022 Goals: Learn, develope, meet new people and have fun
-- ⚡ Fun fact: I also love play my guitar and to draw from time to time :)
+- ⚡ Fun fact: I also love to play guitar and to draw from time to time :)
 
 ### Contact me:
 
 LinkedIn
 
 [<img align="left" alt="markobrkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br>
 Email
 
@@ -42,7 +41,7 @@ Email
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="markobrkovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=markobrkovic&show_icons=true&hide_border=true" />
+<img align="left" alt="markobrkovic's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markobrkovic)](https://github.com/markobrkovic/github-readme-stats) />
 
 </details>
 
