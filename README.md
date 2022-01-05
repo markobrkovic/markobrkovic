@@ -6,12 +6,12 @@
 - 🌱 Just gratuated from neuefische Web Development Bootcamp
 - 🔍 I’m looking for a job as a Junior Web Developer in Munich or remote
 - 🥅 2022 Goals: Learn, develope, meet new people and have fun
-- ⚡ Fun fact: I also love to play guitar and to draw from time to time :)
+- ⚡ Fun fact: I love to play guitar and also draw from time to time :)
 
-### Contact me on LinkedIn or by e-mail:
+### Contact me on LinkedIn or by E-Mail:
 
 [<img align="left" alt="markobrkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="markobrkovic | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="markobrkovic | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:markobrkovic@outlook.de)
 
 <br />
 
@@ -36,8 +36,7 @@
 :zap: GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markobrkovic&show_icons=true&theme=radical)
-)](https://github.com/markobrkovic/github-readme-stats)
+](https://github.com/markobrkovic/github-readme-stats)
 
 [xena]: https://xena-app.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/marko-brkovic-7a8b781b8/
-[email]: markobrkovic@outlook.de
