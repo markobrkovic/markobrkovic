@@ -15,7 +15,6 @@ LinkedIn
 [<img align="left" alt="markobrkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 Email
-
 [<img align="left" alt="markobrkovic | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 <br />
@@ -38,12 +37,10 @@ Email
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
-<img align="left" alt="markobrkovic's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markobrkovic)](https://github.com/markobrkovic/github-readme-stats) />
-
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markobrkovic&show_icons=true&theme=radical)
+)](https://github.com/markobrkovic/github-readme-stats)
 
 [xena]: https://xena-app.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/marko-brkovic-7a8b781b8/
