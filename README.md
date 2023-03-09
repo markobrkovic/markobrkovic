@@ -3,7 +3,7 @@
 ## I'm a gamer, footballer and a developer!
 
 - 🚧 Currently working on Web3.0, a simple blockchain app to improve and learn new skills.
-- 🌱 Still fresh and motivated, graduated the neuefische Web Development Bootcamp 1 year ago.
+- 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 1 year ago.
 - 🔍 Currently not looking for a Full-Time Job, but open for other inquiries.
 - 🥅 2023 Goals: Learn new stuff and improve.
 - 👟 I would list my hobbies, but then I would remove all the suspense in getting to know me 🦫
