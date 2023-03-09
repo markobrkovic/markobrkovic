@@ -2,11 +2,12 @@
 
 ## I'm a gamer, footballer and a developer!
 
-- 🚧 Currently working on [XENA][xena], a simple and more personal gaming platform.
-- 🌱 Just gratuated from neuefische Web Development Bootcamp
-- 🔍 I’m looking for a job as a Junior Web Developer in Munich or remote
-- 🥅 2022 Goals: Learn, develope, meet new people and have fun
-- ⚡ Fun fact: I love to play guitar and also draw from time to time :)
+- 🚧 Currently working on Web3.0, a simple blockchain app to improve and learn new skills.
+- 🌱 Still fresh and motivated, graduated the neuefische Web Development Bootcamp 1 year ago.
+- 🔍 Currently not looking for a Full-Time Job, but open for other inquiries.
+- 🥅 2023 Goals: Learn new stuff and improve.
+- 👟 I would list my hobbies, but then I would remove all the suspense in getting to know me 🦫
+- ⚡ Fun fact: Was in a Gillette commercial with Robert Lewandowski, didn't see him live though :(
 
 ### Contact me on LinkedIn or by E-Mail:
 
@@ -38,5 +39,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markobrkovic&show_icons=true&theme=radical)
 ](https://github.com/markobrkovic/github-readme-stats)
 
-[xena]: https://xena-app.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/marko-brkovic-7a8b781b8/
