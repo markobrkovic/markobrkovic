@@ -6,7 +6,6 @@
 - 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 1 year ago.
 - 🔍 Currently not looking for a Full-Time Job, but open for other inquiries.
 - 🥅 2023 Goals: Learn new stuff and improve.
-- 👟 I would list my hobbies, but then I would remove all the suspense in getting to know me 🦫
 - ⚡ Fun fact: Was in a Gillette commercial with Robert Lewandowski, didn't see him live though :(
 
 ### Contact me on LinkedIn or by E-Mail:
