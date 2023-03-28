@@ -1,7 +1,5 @@
 ### Hi there, I'm Marko 👋
 
-## I'm a gamer, footballer and a developer!
-
 - 🚧 Currently working on Web3.0, a simple blockchain app to improve and learn new skills.
 - 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 1 year ago.
 - 🔍 Currently not looking for a Full-Time Job, but open for other inquiries.
