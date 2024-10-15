@@ -1,10 +1,9 @@
 ### Hi there, I'm Marko 👋
 
-- 🚧 Currently working on Web3.0, a simple blockchain app to improve and learn new skills.
-- 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 1 year ago.
-- 🔍 Currently not looking for a Full-Time Job, but open for other inquiries.
-- 🥅 2023 Goals: Learn new stuff and improve.
-- ⚡ Fun fact: Was in a Gillette commercial with Robert Lewandowski, didn't see him live though :(
+- 🚧 Currently working on my new modern portfolio using Next.js and Tailwind
+- 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 3 years ago and already have almost 3 years of experience as an Frontend/Fullstack Developer at Check24
+- 🔍 Currently not looking for a Full-Time Job, but open for other inquiries
+- 🥅 2024 Goals: Learn new stuff like Next.js, Tailwind and Angular
 
 ### Contact me on LinkedIn or by E-Mail:
 
