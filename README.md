@@ -1,6 +1,6 @@
 ### Hi there, I'm Marko 👋
 
-- 🚧 Currently working on my new modern portfolio using Next.js and Tailwind
+- 🚧 Currently reworking XENA
 - 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 3 years ago and already have almost 3 years of experience as an Frontend Web Developer at Check24
 - 🥅 2024 Goals: Learn new stuff like Next.js, Tailwind and Angular
 
