@@ -1,7 +1,7 @@
 ### Hi there, I'm Marko 👋
 
 - 🚧 Currently reworking XENA
-- 🌱 Still fresh and motivated, graduated at the neuefische Web Development Bootcamp 3 years ago and already have almost 3 years of experience as an Frontend Web Developer at Check24
+- 🌱 3 years of experience as an Frontend Web Developer at Check24, but still fresh and motivated, and looking for new opportunities
 
 ### Contact me on LinkedIn or by E-Mail:
 
