@@ -1,7 +1,7 @@
 ### Hi there, I'm Marko 👋
 
 - 🚧 Currently reworking my old app XENA
-- 🌱 3 years of experience as an Frontend Web Developer at Check24, but still fresh and motivated, and looking for new opportunities
+- 🌱 3 years of experience as an Frontend Web Developer at Check24, but still fresh and motivated.
 
 ### Contact me on LinkedIn or by E-Mail:
 
